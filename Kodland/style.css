@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bungee+Spice&family=Comfortaa:wght@300..700&family=Danfo&family=Darker+Grotesque:wght@300..900&family=Faculty+Glyphic&family=Jaro:opsz@6..72&family=Pacifico&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Bubbles&family=Rubik+Mono+One&display=swap');
+body{
+    background-color: darkgoldenrod;
+    font-family: "Darker Grotesque", serif;
+}
+.west{
+    font-size: 100px;
+}
+header{
+    padding: 10px 5%;
+    background-color:darkgoldenrod;
+    font-family: "Darker Grotesque", serif;
+    font-weight: 1000;
+    font-style: normal;
+}
+header>*{
+    display: inline-block;
+}
+.a{
+    font-size: 50px;
+    padding: 0% 200%
+}
+.pustota{
+    height:10%;
+}
+.pustota2{
+    width: 1000%
+}
+.banner{
+    padding: 5% 5%;
+    color: white;
+    font-size: 150px;
+    position: relative;
+    font-family: "Darker Grotesque", serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+}
+.title1{
+    padding: 5% 5%;
+    font-size: 50px;
+    position: relative;
+    font-family: "Darker Grotesque", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: left;
+    background-color: rgb(236, 189, 69);
+}
+.title2{
+    padding: 5% 5%;
+    font-size: 50px;
+    position: relative;
+    font-family: "Darker Grotesque", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: right;
+    background-color: rgb(236, 189, 69);
+}
+#main{
+    font-family: "Darker Grotesque", serif;
+    font-optical-sizing: auto;
+}
+#artists{
+    font-family: "Darker Grotesque", serif;
+    font-optical-sizing: auto;
+}
+#songs{
+    font-family: "Darker Grotesque", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#top{
+    font-family: "Darker Grotesque", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.fig{
+    font-family: "Darker Grotesque", serif;
+    font-size: 50px;
+    text-align: center;
+}
+footer{
+    background-color:rgb(236, 189, 69);
+    padding:10px 0;
+    text-align: center;
+    color:black;
+    font-size: 20px;
+}
